@@ -24,3 +24,13 @@
 
   En Python cuando los nombres de las variables tienen múltiples palabras, cada palabra se separa con un un _
 
+- ### Clase 10. Los primitivos: tipos de datos sencillos
+
+  En Python los decimales se separan con . no con ,
+
+- ### Clase 11. Convertir un dato a un tipo diferente
+
+  - **Input("")** →  pedirle al usuario que introduzca datos.
+  - **int()** → se datos o variables como parámetros para convertirlos en números  enteros.
+  - **str()** → para convertir números tanto decimales como enteros en strings.
+
