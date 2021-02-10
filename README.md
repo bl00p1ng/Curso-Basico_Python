@@ -46,5 +46,18 @@
   usd = round(usd, 2) # Redondear una variable a x decimales
   ````
 
-  
 
+## 📚 Módulo 3. Herramientas para programar
+
+- ### Clase 14. Construyendo el camino de un programa con condicionales
+
+  ````python
+  if number > 5:
+      print('Es mayor a 5')
+  elif number == 5:
+      print('Es igual a 5')
+  else:
+      print('Es menor a 5')
+  ````
+
+  
