@@ -34,3 +34,9 @@
   - **int()** → se datos o variables como parámetros para convertirlos en números  enteros.
   - **str()** → para convertir números tanto decimales como enteros en strings.
 
+- ### Clase 12. Operadores lógicos y de comparación
+
+  `and`, `or`, `not`
+
+  **🛈 Nota:** en Python los booleanos deben empezar con mayúscula. `True` , `False`
+
