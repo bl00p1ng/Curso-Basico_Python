@@ -90,4 +90,15 @@
   string[0]
   ````
 
+- ### Clase 19. Trabajando con texto: slices
+
+  ```python
+  string[1:3]
+  string[:3] # → va desde el índice 0 hasta el caracter antes del índice 3
+  string[3:] # → desde el índice 3 hasta el final
+  string[1:7:2] # :2 → pasos/saltos
+  string[::] # Traer el string completo
+  string[::-1] # Ir desde el final hasta el principio
+  ```
+
   
