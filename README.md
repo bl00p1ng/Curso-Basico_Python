@@ -101,4 +101,18 @@
   string[::-1] # Ir desde el final hasta el principio
   ```
 
+- ### Clase 20. Proyecto: palíndromo
+
+  **🛈 Nota:** es una buena práctica en Python tener una función principal que corra el programa y un punto de entrada:
+
+  ````python
+  def run(): # Función principal
+      pass
+  
+  
+  if __name__ == '__main__': # Punto de entrada
+      run()
+  
+  ````
+
   
