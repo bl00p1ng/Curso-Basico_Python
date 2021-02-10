@@ -70,4 +70,24 @@
 
   Crear un String de múltiples líneas.
 
+- ### Clase 18. Trabajando con texto: cadenas de caracteres
+
+  `.upper()` → Convertir String en mayúsculas.
+
+  `.capitalize()` → Primera letra en mayúscula
+
+  `.strip()` → Elimina los espacios basura al principio y al final del String
+
+  `.lower()` → Convertir String en minúsculas.
+
+  `.replace('x', 'y')` → Reemplaza todas las ocurrencias por el caracter especificado
+
+  `len(string)` → Retorna longitud del String
+
+  **Acceder a caracteres específicos:** 
+
+  ````python
+  string[0]
+  ````
+
   
