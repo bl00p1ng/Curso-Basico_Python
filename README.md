@@ -40,3 +40,11 @@
 
   **🛈 Nota:** en Python los booleanos deben empezar con mayúscula. `True` , `False`
 
+- ### Clase 13. Tu primer programa: conversor de monedas
+
+  ````python
+  usd = round(usd, 2) # Redondear una variable a x decimales
+  ````
+
+  
+
