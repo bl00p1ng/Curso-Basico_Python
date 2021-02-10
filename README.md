@@ -18,3 +18,9 @@
 
   `2 ** 2` → potenciación
 
+- ### Clase 9. ¿Qué es una variable?
+
+  `x = 2` → Declarar variables en Python
+
+  En Python cuando los nombres de las variables tienen múltiples palabras, cada palabra se separa con un un _
+
