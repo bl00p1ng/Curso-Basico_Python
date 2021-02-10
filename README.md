@@ -60,4 +60,12 @@
       print('Es menor a 5')
   ````
 
-  
+- ### Clase 15. Varios países en mi conversor de monedas
+
+  ````python
+  menu = """
+  ...
+  """
+  ````
+
+  Crear un String de múltiples lineas.
