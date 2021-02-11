@@ -123,6 +123,19 @@
   ```python
   while power_2 < LIMIT:
       print('2 elevado a ' + str(i) + ' es igual a: ' + str(power_2))
-      i = i + 1
+      i += 1
       power_2 = 2**i
   ```
+
+- ### Clase 23. Explorando un bucle diferente: el ciclo for
+
+  ```python
+  for i in range(1000):
+      print(i)
+  ```
+  ````python
+  for i in range(1, 1001): # i → inicio. 1000 → final
+      print(i)
+  ````
+
+  
