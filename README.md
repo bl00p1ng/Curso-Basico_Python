@@ -115,4 +115,14 @@
   
   ````
 
-  
+
+## 📚 Módulo 4. Bucles
+
+- ### Clase 22. El ciclo while
+
+  ```python
+  while power_2 < LIMIT:
+      print('2 elevado a ' + str(i) + ' es igual a: ' + str(power_2))
+      i = i + 1
+      power_2 = 2**i
+  ```
