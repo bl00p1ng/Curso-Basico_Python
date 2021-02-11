@@ -138,4 +138,9 @@
       print(i)
   ````
 
-  
+- ### Clase 24. Recorriendo un string con for
+
+  ```python
+  for letter in name:
+      print(letter)
+  ```
