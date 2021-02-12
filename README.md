@@ -268,3 +268,11 @@
   for country in countries_population.values():
   	print(country)
   ```
+
+- ### Clase 31. Proyecto: generador de contraseñas
+
+  ````python
+  generated_password = ''.join(generated_password) # Converir una lista en un string
+  ````
+
+  
