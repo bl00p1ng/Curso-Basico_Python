@@ -160,5 +160,11 @@
       print(i)
   ```
 
+- ### Clase 27. Proyecto: videojuego
 
+  ````python
+  import random
+  
+  random_number = random.randint(1, 100) # Generar número alteatorio entero
+  ````
 
