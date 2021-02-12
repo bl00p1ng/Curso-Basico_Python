@@ -168,3 +168,29 @@
   random_number = random.randint(1, 100) # Generar número alteatorio entero
   ````
 
+## 📚 Módulo 5. Estructuras de datos
+
+- ### Clase 28. Almacenar varios valores en una variable: listas
+
+  #### Estructuras de datos
+
+  Son elementos de los lenguajes de programación que permiten guardar múltiples datos en una variable.
+
+  #### Listas
+
+  ````python
+  numbers = [1, 2, 5, 8, 9, 16]
+  obj = ['hello', 2, 4, 5, True]
+  
+  obj[1] # Acceder al elemento de una lista
+  obj.append(False) # Agregar un elemento al final de la lista
+  obj.pop(3) # Borra el elemento en el índice que se pasa por parametro
+  
+  # Recorrer un objeto
+  for element in object:
+      print(element)
+      
+  obj[::-1] # Inverir un array. Se pueden usar slices en arrays
+  ````
+
+  
