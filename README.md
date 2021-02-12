@@ -144,3 +144,18 @@
   for letter in name:
       print(letter)
   ```
+
+- ### Clase 25. Interrumpiendo ciclos con break y continue
+
+  ```python
+  for i in range(100):
+  	if i % 2 != 0:
+  		continue
+  	print(i)
+  ```
+  ```python
+  for i in range(10000):
+      if i == 5678:
+          break
+      print(i)
+  ```
