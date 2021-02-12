@@ -246,3 +246,25 @@
   Las pueden ser un tanto ineficientes pues al ser dinámicas requieren mucha más memoria para mantenerlas funcionando.
 
   Las **tuplas** son estructuras muy similares a las listas, con la diferencia de que las tuplas **sin inmutables**. Es más rápido recorrer una tupla que recorrer una lista.
+
+- ### Clase 30.  ¿Qué son los diccionarios?
+
+  Son una estructura de datos de clave - valor.
+
+  ```python
+  countries_population = {
+      'Argentina': 44938712,
+      'Brasil': 210147125,
+      'Colombia': 50372424
+  }
+  
+  print(countries_population['Colombia'])
+  
+  # RECORRER LAS KEYS DE UN DICCIONARIO
+  for country in countries_population.keys():
+      print(country)
+      
+  # RECORRER LOS VALORES DE UN DICCIONARIO
+  for country in countries_population.values():
+  	print(country)
+  ```
